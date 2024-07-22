@@ -4,7 +4,7 @@ Welcome to Airstrike game. Air Strike is an engaging 2D arcade-style game develo
 
 # Features
 
-Intuitive Controls: Smooth and responsive controls for an immersive gaming experience.
+Intuitive Controls: Smooth and responsive controls for an immersive gaming experience. <br>
 Diverse Enemies: Multiple enemy types with unique behaviors and attack patterns.
 Power-ups: Collect power-ups to enhance your aircraft's abilities and firepower.
 Challenging Levels: Progress through increasingly difficult levels that test your skills and reflexes.
