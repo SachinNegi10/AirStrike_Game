@@ -5,16 +5,16 @@ Welcome to Airstrike game. Air Strike is an engaging 2D arcade-style game develo
 # Features
 
 Intuitive Controls: Smooth and responsive controls for an immersive gaming experience. <br>
-Diverse Enemies: Multiple enemy types with unique behaviors and attack patterns.
-Power-ups: Collect power-ups to enhance your aircraft's abilities and firepower.
-Challenging Levels: Progress through increasingly difficult levels that test your skills and reflexes.
-Retro Graphics: Classic arcade-inspired graphics with a modern twist.
-Sound Effects: Dynamic sound effects to enhance the gameplay experience.
+Diverse Enemies: Multiple enemy types with unique behaviors and attack patterns.<br>
+Power-ups: Collect power-ups to enhance your aircraft's abilities and firepower.<br>
+Challenging Levels: Progress through increasingly difficult levels that test your skills and reflexes.<br>
+Retro Graphics: Classic arcade-inspired graphics with a modern twist.<br>
+Sound Effects: Dynamic sound effects to enhance the gameplay experience.<br>
 
 # How to Play
 
-Move: Use the arrow keys to maneuver your aircraft.
-Shoot: Press the spacebar to fire your weapons.
-Dodge: Avoid enemy fire and obstacles to stay alive.
-Collect: Pick up power-ups to gain special abilities and improve your firepower.
+Move: Use the arrow keys to maneuver your aircraft.<br>
+Shoot: Press the spacebar to fire your weapons.<br>
+Dodge: Avoid enemy fire and obstacles to stay alive.<br>
+Collect: Pick up power-ups to gain special abilities and improve your firepower.<br>
 
